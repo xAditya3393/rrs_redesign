@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="rrs_redesign"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/yashwanth/CLionProjects/rrs_redesign/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/yashwanth/CLionProjects/rrs_redesign/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/yashwanth/CLionProjects/rrs_redesign/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/yashwanth/CLionProjects/rrs_redesign/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/yashwanth/CLionProjects/rrs_redesign/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/yashwanth/CLionProjects/rrs_redesign/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/yashwanth/CLionProjects/rrs_redesign/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/yashwanth/CLionProjects/rrs_redesign/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/yashwanth/CLionProjects/rrs_redesign/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/yashwanth/CLionProjects/rrs_redesign/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/yashwanth/CLionProjects/rrs_redesign/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/yashwanth/CLionProjects/rrs_redesign/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/yashwanth/CLionProjects/rrs_redesign/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/yashwanth/CLionProjects/rrs_redesign/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/yashwanth/CLionProjects/rrs_redesign/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rrs_redesign">
+				<Option output="/Users/yashwanth/CLionProjects/rrs_redesign/cmake-build-debug/rrs_redesign" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yashwanth/CLionProjects/rrs_redesign/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/yashwanth/CLionProjects/rrs_redesign/cmake-build-debug/Makefile&quot;  VERBOSE=1 rrs_redesign"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/yashwanth/CLionProjects/rrs_redesign/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/yashwanth/CLionProjects/rrs_redesign/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/yashwanth/CLionProjects/rrs_redesign/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rrs_redesign/fast">
+				<Option output="/Users/yashwanth/CLionProjects/rrs_redesign/cmake-build-debug/rrs_redesign" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yashwanth/CLionProjects/rrs_redesign/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/yashwanth/CLionProjects/rrs_redesign/cmake-build-debug/Makefile&quot;  VERBOSE=1 rrs_redesign/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/yashwanth/CLionProjects/rrs_redesign/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/yashwanth/CLionProjects/rrs_redesign/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/yashwanth/CLionProjects/rrs_redesign/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/yashwanth/CLionProjects/rrs_redesign/Express_Train.cpp">
+			<Option target="rrs_redesign"/>
+		</Unit>
+		<Unit filename="/Users/yashwanth/CLionProjects/rrs_redesign/Express_Train.h">
+			<Option target="rrs_redesign"/>
+		</Unit>
+		<Unit filename="/Users/yashwanth/CLionProjects/rrs_redesign/Normal_Train.cpp">
+			<Option target="rrs_redesign"/>
+		</Unit>
+		<Unit filename="/Users/yashwanth/CLionProjects/rrs_redesign/Normal_Train.h">
+			<Option target="rrs_redesign"/>
+		</Unit>
+		<Unit filename="/Users/yashwanth/CLionProjects/rrs_redesign/Train.cpp">
+			<Option target="rrs_redesign"/>
+		</Unit>
+		<Unit filename="/Users/yashwanth/CLionProjects/rrs_redesign/Train.h">
+			<Option target="rrs_redesign"/>
+		</Unit>
+		<Unit filename="/Users/yashwanth/CLionProjects/rrs_redesign/costs.h">
+			<Option target="rrs_redesign"/>
+		</Unit>
+		<Unit filename="/Users/yashwanth/CLionProjects/rrs_redesign/file_operations.cpp">
+			<Option target="rrs_redesign"/>
+		</Unit>
+		<Unit filename="/Users/yashwanth/CLionProjects/rrs_redesign/file_operations.h">
+			<Option target="rrs_redesign"/>
+		</Unit>
+		<Unit filename="/Users/yashwanth/CLionProjects/rrs_redesign/functionality.cpp">
+			<Option target="rrs_redesign"/>
+		</Unit>
+		<Unit filename="/Users/yashwanth/CLionProjects/rrs_redesign/functionality.h">
+			<Option target="rrs_redesign"/>
+		</Unit>
+		<Unit filename="/Users/yashwanth/CLionProjects/rrs_redesign/main.cpp">
+			<Option target="rrs_redesign"/>
+		</Unit>
+		<Unit filename="/Users/yashwanth/CLionProjects/rrs_redesign/person.h">
+			<Option target="rrs_redesign"/>
+		</Unit>
+		<Unit filename="/Users/yashwanth/CLionProjects/rrs_redesign/person_caretaker.cpp">
+			<Option target="rrs_redesign"/>
+		</Unit>
+		<Unit filename="/Users/yashwanth/CLionProjects/rrs_redesign/person_caretaker.h">
+			<Option target="rrs_redesign"/>
+		</Unit>
+		<Unit filename="/Users/yashwanth/CLionProjects/rrs_redesign/person_originator.cpp">
+			<Option target="rrs_redesign"/>
+		</Unit>
+		<Unit filename="/Users/yashwanth/CLionProjects/rrs_redesign/person_originator.h">
+			<Option target="rrs_redesign"/>
+		</Unit>
+		<Unit filename="/Users/yashwanth/CLionProjects/rrs_redesign/reservation_interface.cpp">
+			<Option target="rrs_redesign"/>
+		</Unit>
+		<Unit filename="/Users/yashwanth/CLionProjects/rrs_redesign/reservation_interface.h">
+			<Option target="rrs_redesign"/>
+		</Unit>
+		<Unit filename="/Users/yashwanth/CLionProjects/rrs_redesign/singleton.cpp">
+			<Option target="rrs_redesign"/>
+		</Unit>
+		<Unit filename="/Users/yashwanth/CLionProjects/rrs_redesign/singleton.h">
+			<Option target="rrs_redesign"/>
+		</Unit>
+		<Unit filename="/Users/yashwanth/CLionProjects/rrs_redesign/station.cpp">
+			<Option target="rrs_redesign"/>
+		</Unit>
+		<Unit filename="/Users/yashwanth/CLionProjects/rrs_redesign/station.h">
+			<Option target="rrs_redesign"/>
+		</Unit>
+		<Unit filename="/Users/yashwanth/CLionProjects/rrs_redesign/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
